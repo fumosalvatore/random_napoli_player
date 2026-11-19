@@ -1,0 +1,12 @@
+# Xcode & macOS system files
+.DS_Store
+build/
+DerivedData/
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
+*.hmap
+*.ipa
+*.playground
+
+# Swift Package Manager
+.build/
